@@ -44,10 +44,14 @@
   }
 
   ul {
-    list-style: desc;
+    list-style: outside;
   }
   ol {
-    list-style: desc;
+    list-style: outside;
+  }
+  
+  li {
+    line-height: 2.1em;
   }
 }
 
