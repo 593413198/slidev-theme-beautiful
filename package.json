@@ -1,0 +1,23 @@
+{
+  "name": "@slidev/slidev-theme-beautiful",
+  "version": "1.0.0",
+  "description": "a beautiful theme for slidev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/593413198/slidev-theme-beautiful.git"
+  },
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "author": "luhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/593413198/slidev-theme-beautiful/issues"
+  },
+  "homepage": "https://github.com/593413198/slidev-theme-beautiful#readme"
+}
